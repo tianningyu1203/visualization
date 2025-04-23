@@ -1,0 +1,14 @@
+#load libraries
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import scipy
+import PIL
+import requests
+
+np.random.seed(613)
+x = np.arrange(50)
+y = np.random.randint(0, 100, 50)
+
+fig,ax = plt.subplots(figsize = (5,3))
+ax.scatter(x,y)
