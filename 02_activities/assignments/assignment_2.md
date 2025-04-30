@@ -10,25 +10,30 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Bad visualization link: https://datavizproject.com/wp-content/uploads/examples/0ffb4157c28479be4cb00446edd74b50.jpg
+        - The image background is too dark while the font colors are faint, making the image hard to see.
 
+        - It is hard to compare values accurately due to distortion cuased by 3D effect.
 
+        - There is no y axis or x axis labels, no scale and no figure legends.
 
-
-
-
+        - the data points are not in a chronological order.
 
       ```
-    - How could this data visualization have been improved?  
+    - This image can be improved by using a 2D bar chart without any distortion, brighter colors, and clear axis labels.
       ```
-      Your answer...
+      Good visulization link: https://datavizproject.com/wp-content/uploads/Alluvial-Diagram.png
 
+      - The flow beetween the categories and stages is very clear, with the flow width represents the size of flow. 
 
+      - The consistent colors help to track specificgroups across multiple stages. In thie figure, the green color represents consumption by customers and the orange color represents production loss or loss due to other reasons that cannot be consumed by customers.
 
+      - The diagram is not too busy and use the space efficiently.
 
+      -Clear labels are placed close to the flows and the visual focus remins on the data relationships, not on the unnecessary decoration.
 
-
-      
+    
+      However, this image can be improved by adding the unit(e.g. kg, pounds or the number of cassavas) to clarify what the flow width represents. 
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
